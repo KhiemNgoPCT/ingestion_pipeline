@@ -1,0 +1,11 @@
+PyMuPDF
+pytesseract
+python-docx
+trafilatura
+beautifulsoup4
+pandas
+tabulate
+pytest
+pytest-mock
+ftfy
+lxml_html_clean
