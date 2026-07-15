@@ -14,7 +14,7 @@ Ingestion Pipeline là hệ thống tự động xử lý và làm sạch tài l
 Tạo môi trường ảo và cài đặt các thư viện cần thiết:
 
 ```bash
-pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
 ## Format Support Table
